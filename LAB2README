@@ -1,0 +1,13 @@
+1.BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE STRICTLY ADHERED
+TO THE TENURES OF THE OHIO STATE UNIVERSITY'S ACADEMIC INTEGRITY POLICY
+WITH RESPECT TO THIS ASSIGNMENT.
+
+THIS IS THE README FILE FOR LAB 2.
+
+STUDENT NAME: Yihone Chu
+
+2. It took my about 10-15 hours to complete this lab.
+
+3.Something really interesting was bit shifting, I found what I feel like was a clever way to create the key. I also found out a lot more about preprocessors and the #ifdef thing.
+
+4.I used print return_value and well as disp return_value. It seemed to make a lot of sense, at first it became 0x11, then 0x33, then all the way to 0x66 at the end. 
